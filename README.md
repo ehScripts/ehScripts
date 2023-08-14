@@ -1,0 +1,4 @@
+- Full-stack web developer since 2018
+- Game dev
+- Mobile app creator
+- Experience in HTML/CSS/JS, Node.js, and C
