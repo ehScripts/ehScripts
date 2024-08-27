@@ -1,2 +1,1 @@
-- Full-stack web developer since 2018
-- Experience with HTML/CSS/JS, Node.js, C, and Python
+
